@@ -39,5 +39,5 @@ while is_working:
 
 # main_surface((155, 155, 155))
 pygame.display.flip()
-
+pygame.display(1)
 
